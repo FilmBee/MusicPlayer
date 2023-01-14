@@ -1,5 +1,5 @@
 echo ">> FETCHING UPSTREAM..."
-git clone https://github.com/FilmBee/MusicPlayer /MusicPlayer
+git clone https://github.com/FilmBee/MusicPlayer /MusicPlaye
 echo ">> INSTALLING REQUIREMENTS..."
 cd /MusicPlayer
 pip3 install -U -r requirements.txt
